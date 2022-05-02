@@ -1,0 +1,45 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h1{
+    display: inline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.heading button{
+    float: right;
+    font-size: 18px;
+    border: 1px solid white;
+}
+
+.big_image{
+    width: 100%;
+}
+
+#play ,#status{
+    font-size: 22px;
+}
+
+#footer{
+    background-color: rgb(229, 229, 229);
+    line-height: 2;
+    margin: 0px;
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+.Instruction_img{
+    display: inline-block;
+    width: 45%;
+}
+
+video{
+    background: url('game_console.png');
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
